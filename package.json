@@ -1,5 +1,9 @@
 {
   "devDependencies": {
     "htmlhint": "^1.1.3"
+  },
+  "dependencies": {
+    "bootstrap": "^5.1.3",
+    "bootstrap-icons": "^1.8.1"
   }
 }
